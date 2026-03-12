@@ -71,7 +71,7 @@ The dataset contains information related to food orders, including:
 1.  **Clone the Repository:** `git clone https://github.com/shweta1732/FoodHub-Analysis-Project`
 2.  **Open in Google Colab:** Click the "Open in Colab" badge below to run the notebook directly in your browser.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shweta1732/FoodHub-Analysis-Project/blob/main/Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shweta1732/FoodHub-Analysis-Project/blob/main/FoodHub-Analysis.ipynb)
 
 3.  **Local Environment:** If running locally, ensure you have Python installed along with `pandas`, `matplotlib`, `seaborn`, and `numpy`.
     ```bash
